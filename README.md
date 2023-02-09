@@ -1,2 +1,2 @@
 # InterCrowd
-I have made this website using HTML and CSS, to visit the website 
+I have made this Landing Page for Intern Crowd using HTML and CSS
